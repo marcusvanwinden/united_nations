@@ -1,7 +1,7 @@
 # United Nations
 
 ### Link
-[Click here to view the analysis](united_nations.ipynb)
+[Click here to view project](united_nations.ipynb)
 
 ### Description
 
